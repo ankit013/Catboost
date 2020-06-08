@@ -6,6 +6,10 @@ This note book deals with indepth understandin of how to implement the catboost 
 
 A breif discussion on the installation in python and understanding the features are covered under this notebook.
 
+# SHAP values
+SHapely Additive exPlanations
+https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d
+
 ## References 
 https://catboost.ai/docs/concepts/about.html
 
